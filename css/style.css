@@ -151,3 +151,8 @@ body{
 .botao__rodape{
     color: var(--branco-principal)
 }
+
+.lista__link a:hover{
+    color: var(--botao-azul)
+}
+}
